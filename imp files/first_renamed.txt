@@ -1,0 +1,11 @@
+ver -1
+
+second commit 
+
+used git rm --cached for this file
+
+
+amending this file second time 
+
+
+alias concept learned
